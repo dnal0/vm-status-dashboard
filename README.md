@@ -24,11 +24,7 @@ A simple, live system monitoring dashboard running on an Ubuntu Server VM.
 
 ## Screenshot
 
-### Dashboard Overview (idle)
+### Dashboard Overview
 ![Dashboard overview](dashboard.png)
-
-### During CPU/RAM stress test
-![Stress test view](stress-test-cpu-ram.png)
-
 
 Built as my first real Linux server project – March 2026.
