@@ -22,8 +22,13 @@ A simple, live system monitoring dashboard running on an Ubuntu Server VM.
 4. `pip install flask psutil`
 5. `python3 app.py`
 
-## Screenshots
+## Screenshot
 
+### Dashboard Overview (idle)
+![Dashboard overview](dashboard.png)
+
+### During CPU/RAM stress test
+![Stress test view](stress-test-cpu-ram.png)
 
 
 Built as my first real Linux server project – March 2026.
